@@ -1,7 +1,7 @@
 {
-  "name": "clear",
+  "name": "QIAsphere",
   "integrations": {
-    "capacitor": {}
+    "cordova": {}
   },
   "type": "angular"
 }
